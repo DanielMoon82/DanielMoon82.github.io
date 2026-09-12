@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.danielmoon82.stockscreener",
+      "sha256_cert_fingerprints": [
+        "0A:B6:A1:2A:7B:63:D1:2B:C8:E7:23:00:40:3E:2E:99:70:94:9C:9C:78:4B:82:D0:AD:78:0F:EA:02:88:83:67"
+      ]
+    }
+  }
+]
