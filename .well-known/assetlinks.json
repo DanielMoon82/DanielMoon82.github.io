@@ -11,5 +11,17 @@
         "B0:EC:21:B3:8E:91:29:A5:6E:19:FA:7E:4F:F6:69:94:06:AB:E1:5C:51:CC:69:02:7E:8C:13:02:C7:E0:D7:F2"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.danielmoon82.eyebreak",
+      "sha256_cert_fingerprints": [
+        "A0:F9:6C:9F:4A:EE:B5:11:58:4A:9F:55:89:55:A1:3F:7E:4C:85:D8:51:FB:56:15:C3:B5:7D:6D:DC:41:3D:7D"
+      ]
+    }
   }
 ]
