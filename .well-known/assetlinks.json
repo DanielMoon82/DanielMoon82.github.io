@@ -20,7 +20,8 @@
       "namespace": "android_app",
       "package_name": "io.github.danielmoon82.eyebreak",
       "sha256_cert_fingerprints": [
-        "A0:F9:6C:9F:4A:EE:B5:11:58:4A:9F:55:89:55:A1:3F:7E:4C:85:D8:51:FB:56:15:C3:B5:7D:6D:DC:41:3D:7D"
+        "A0:F9:6C:9F:4A:EE:B5:11:58:4A:9F:55:89:55:A1:3F:7E:4C:85:D8:51:FB:56:15:C3:B5:7D:6D:DC:41:3D:7D",
+        "D3:66:17:60:A7:06:33:D3:07:74:B9:2D:82:CD:27:1C:E5:12:9C:DD:53:19:AD:F8:70:85:BA:87:3B:11:92:57"
       ]
     }
   }
